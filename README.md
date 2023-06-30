@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1gpHPlRQ5nUJFfr4IKlKou3vHaop7wVepCw5Wn46Jvqg/
 
 
 Bootstrap page:-
-https://drive.google.com/file/d/1KERjl6P9PTG9VF7xg-8NM0TtESA_YEWx/view?usp=sharin
+https://drive.google.com/file/d/1KERjl6P9PTG9VF7xg-8NM0TtESA_YEWx/view?usp=sharing
 
 Web Assets:-
 https://drive.google.com/file/d/1dA-nvevazZkr7v1p7FroHcFmez2K9TmN/view?usp=sharing
