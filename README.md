@@ -3,10 +3,13 @@
 
 Collab Notebook for python code:
 https://colab.research.google.com/drive/1BkgvgqK85I66_rubL7XGtdQ-RHz58yZh?usp=sharing
+
 **Demo video:-**
 https://drive.google.com/file/d/14XD78dQgZn25FMNBwoFhfu-Mt-NS-oiE/view?usp=sharing
+
 Tableau Public Link:-
 https://public.tableau.com/views/Project_final_draft/dash-1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 Report:-
 https://docs.google.com/document/d/1gpHPlRQ5nUJFfr4IKlKou3vHaop7wVepCw5Wn46Jvqg/edit
 
